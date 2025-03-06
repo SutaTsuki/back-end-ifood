@@ -1,17 +1,12 @@
 const express = require("express");
-const path = require("path");
-const http = require("http");
 const app = express();
-const fs = require("fs");
+const path = require("path");
+const public = path.join(__dirname);
 
-http.createServer(function(req, res) {
-    if(req.url === "/") {
-        fs.readFile("index.html", function(err, data){
-            res.writeHead(200, {"content-type" : "text-html"});
-            res.end(data);
-        });
-    }
-});
+app.use("/", express.static(public));
 
-console.log("O SERVIDOR ESTA RODANDO");
+app.get("/", function(req, res) {
+    res.sendFile(path.join(public, "index.html"));
+})
+console.log("o servidor esta rodando");
 app.listen(8080);
