@@ -5,6 +5,7 @@ document.getElementById('loginForm').addEventListener('submit', function (event)
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
 
+    //ARRUMAR
     // Validação simples
     if (username === 'admin' && password === '1234') {
         alert('Login bem-sucedido! Redirecionando...');
@@ -20,6 +21,7 @@ document.getElementById('cadastroForm').addEventListener('submit', function (eve
     // Captura os valores dos campos
     const nome = document.getElementById('nome').value;
     const email = document.getElementById('email').value;
+    //mandar verificação por email
     const senha = document.getElementById('senha').value;
     const confirmarSenha = document.getElementById('confirmar-senha').value;
 
