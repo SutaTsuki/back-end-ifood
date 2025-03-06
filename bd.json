@@ -1,2 +1,6002 @@
-
-  
+[
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Pizza Mania",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Mexican Food",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Doce Delícia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Fast Burger",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Sabor e Cia",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Pizza Mania",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Saudável & Saboroso",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Fast Burger",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Saudável & Saboroso",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Pizza Mania",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Saudável & Saboroso",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Sabor e Cia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Pizza Mania",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Burrito",
+        "loja": "Doce Delícia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Burrito&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Gourmet Express",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Pizza Mania",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Mexican Food",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Pizza Mania",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Quesadilla",
+        "loja": "Gourmet Express",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Quesadilla&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Salada Mediterrânea",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Salada+Mediterrânea&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Churrasco",
+        "loja": "Sushi House",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Churrasco&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Sabor e Cia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Delícias da Vovó",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Moqueca",
+        "loja": "Doce Delícia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Moqueca&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Comida Brasileira",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Gourmet Express",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Tempura",
+        "loja": "Doce Delícia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Tempura&tbm=isch"
+    },
+    {
+        "nome": "Bolo de Chocolate",
+        "loja": "Comida Brasileira",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Bolo+de+Chocolate&tbm=isch"
+    },
+    {
+        "nome": "Quinoa com Legumes",
+        "loja": "Saudável & Saboroso",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Quinoa+com+Legumes&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Cheesecake",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Cheesecake&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Sushi House",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Sushi House",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Mexican Food",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Açaí",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Açaí&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Acarajé",
+        "loja": "Sabor e Cia",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Acarajé&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Sushi House",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Sushi House",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Pizza Margherita",
+        "loja": "Comida Brasileira",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Pizza+Margherita&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Saudável & Saboroso",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Ramen",
+        "loja": "Comida Brasileira",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Ramen&tbm=isch"
+    },
+    {
+        "nome": "Yakimeshi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Yakimeshi&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Sabor e Cia",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Mexican Food",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Gourmet Express",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Chicken Wings",
+        "loja": "Doce Delícia",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Chicken+Wings&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Delícias da Vovó",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Abacate com Ovo",
+        "loja": "Gourmet Express",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Abacate+com+Ovo&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Delícias da Vovó",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Pão de Queijo",
+        "loja": "Comida Brasileira",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Pão+de+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Guacamole",
+        "loja": "Delícias da Vovó",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Guacamole&tbm=isch"
+    },
+    {
+        "nome": "Batata Frita",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Batata+Frita&tbm=isch"
+    },
+    {
+        "nome": "Feijoada",
+        "loja": "Fast Burger",
+        "tipo": "brasileira",
+        "imagem": "https://www.google.com/search?q=Feijoada&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Sabor e Cia",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Mexican Food",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Taco de Carne",
+        "loja": "Comida Brasileira",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Taco+de+Carne&tbm=isch"
+    },
+    {
+        "nome": "Pudim de Leite",
+        "loja": "Sushi House",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Pudim+de+Leite&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Torta de Morango",
+        "loja": "Fast Burger",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Torta+de+Morango&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    },
+    {
+        "nome": "Nachos",
+        "loja": "Fast Burger",
+        "tipo": "mexicana",
+        "imagem": "https://www.google.com/search?q=Nachos&tbm=isch"
+    },
+    {
+        "nome": "Sushi",
+        "loja": "Mexican Food",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sushi&tbm=isch"
+    },
+    {
+        "nome": "Brigadeiro",
+        "loja": "Delícias da Vovó",
+        "tipo": "sobremesas",
+        "imagem": "https://www.google.com/search?q=Brigadeiro&tbm=isch"
+    },
+    {
+        "nome": "Sashimi",
+        "loja": "Gourmet Express",
+        "tipo": "japonesa",
+        "imagem": "https://www.google.com/search?q=Sashimi&tbm=isch"
+    },
+    {
+        "nome": "Hamburguer com Queijo",
+        "loja": "Saudável & Saboroso",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hamburguer+com+Queijo&tbm=isch"
+    },
+    {
+        "nome": "Hot Dog",
+        "loja": "Fast Burger",
+        "tipo": "fast-foods",
+        "imagem": "https://www.google.com/search?q=Hot+Dog&tbm=isch"
+    },
+    {
+        "nome": "Smoothie Bowl",
+        "loja": "Doce Delícia",
+        "tipo": "saudavel",
+        "imagem": "https://www.google.com/search?q=Smoothie+Bowl&tbm=isch"
+    }
+]
